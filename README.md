@@ -1,4 +1,6 @@
-# checkout
+# Checkout
+This is a vue 2 demo project.
+
 
 ## Project setup
 ```
